@@ -1,0 +1,17 @@
+# Common GIT Commads for Quick Reference
+
+## Add file to Git
+
+> git add filename
+
+## See the Status of the current commit
+
+> git status
+
+## Make commit to Git
+
+> git commit -M "Description of the Commit"
+
+## Push the changes to Git
+
+> git push origin main
