@@ -10,8 +10,13 @@
 
 ## Make commit to Git
 
-> git commit -M "Description of the Commit"
+> git commit -m "Description of the Commit"
 
 ## Push the changes to Git
 
-> git push origin main
+> git push -u origin main
+
+
+## Clone a Git Repository
+
+> git clone https://github.com/tragz/AppliedAi.git
